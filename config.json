@@ -1,0 +1,24 @@
+{
+  "options": {
+    "paths": {
+      "root": "/data",
+      "fonts": "fonts",
+      "sprites": "sprites",
+      "styles": "styles",
+      "mbtiles": "mbtiles"
+    }
+  },
+  "styles": {
+    "dark-matter-gl": {
+      "style": "dark-matter-gl.json"
+    }
+  },
+  "data": {
+    "world-vector": {
+      "mbtiles": "world-vector.mbtiles"
+    },
+    "planet": {
+      "mbtiles": "planet.mbtiles"
+    }
+  }
+}
