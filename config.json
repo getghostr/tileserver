@@ -14,9 +14,6 @@
     }
   },
   "data": {
-    "world-vector": {
-      "mbtiles": "world-vector.mbtiles"
-    },
     "planet": {
       "mbtiles": "planet.mbtiles"
     }
