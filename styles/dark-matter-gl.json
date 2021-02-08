@@ -20,7 +20,7 @@
     "sources": {
         "openmaptiles": {
             "type": "vector",
-            "url": "mbtiles://{planet3}"
+            "url": "mbtiles://{planet}"
         }
     },
     "sprite": "https://openmaptiles.github.io/dark-matter-gl-style/sprite",
